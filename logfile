@@ -1,0 +1,2 @@
+This file will contain something in order to let you see I have worked with rest services.
+The problem is I have used RESTED addon to Firefox, which does not provide code/command format. Instead it uses blocks for each parameter where one can write the "name" and the corresponding "value". So, I will try to write my commands in format I saw on github as example inputs (e.g. https://developer.github.com/v3/repos/contents/#create-a-file this section als provides an example input).
